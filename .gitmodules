@@ -10,3 +10,6 @@
 [submodule "cs6200_pr4"]
 	path = cs6200_pr4
 	url = git@github.com:tradelunch/cs6200_pr4.git
+[submodule "resources/study-c"]
+	path = resources/study-c
+	url = git@github.com:tradelunch/study-c.git
